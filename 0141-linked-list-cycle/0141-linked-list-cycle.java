@@ -15,7 +15,7 @@ public class Solution {
         ListNode fptr=head;
         ListNode sptr=head;
 
-        while((fptr!= null) && (sptr!=null) && (fptr.next!= null))
+        while((fptr!= null) && (fptr.next!= null))
         {
             sptr=sptr.next;
             fptr=fptr.next.next;
