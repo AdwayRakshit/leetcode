@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
