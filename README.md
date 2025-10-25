@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
