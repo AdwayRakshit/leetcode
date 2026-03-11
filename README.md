@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0202-happy-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
