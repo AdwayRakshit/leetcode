@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
